@@ -1,0 +1,19 @@
+{
+    "name": "mx13/slugable",
+    "description": "A package to add slug functionality to an Eloquent model",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manson Xasthur",
+            "email": "manson@mx13.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MX13\\Slugable\\": "src"
+        }
+    }
+}
